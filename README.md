@@ -7,7 +7,7 @@
 
 - Name: Autonomous Operations
 - ID: ES:CONCEPT:autonomous-operations
-- Tranche: ES-015
+- Tranche: ES-008
 - Semantic Version: 0.7.0
 - Base Concept: ES:CONCEPT:operations
 - Status: Accepted
